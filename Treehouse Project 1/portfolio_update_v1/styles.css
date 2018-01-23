@@ -60,7 +60,7 @@ header {
   text-align: center;
   background: url('images/FRCF Background.jpg') no-repeat  center ;
   background-size: cover;
-  overflow: transition;
+  overflow: auto;
   padding-top: 60px;
 }
 header {
