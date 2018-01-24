@@ -147,6 +147,15 @@ ul.hobbies {
   margin: 2px;
   align-items: center;
 }
+.diesel{
+  width: 150px;
+  height: auto;
+  border: solid red;
+}
+.diesel:hover {
+    transform: scale(2);
+    transition: all .8s;
+}
 
 .hobbies li:nth-child(odd) {
   background: #fb0000;
